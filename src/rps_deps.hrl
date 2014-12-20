@@ -1,0 +1,1 @@
+-define(APPS, [crypto, ranch, rps]).

@@ -1,0 +1,5 @@
+rock-paper-scissors over tcp game server
+
+cd $projectfolder$
+make
+make run
