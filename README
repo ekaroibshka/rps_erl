@@ -1,5 +1,10 @@
 rock-paper-scissors over tcp game server
 
-cd $projectfolder$
-make
-make run
+running:
+	cd $projectfolder$
+	make
+	make run
+
+dependecies:
+	erlang >= 17
+	rebar
